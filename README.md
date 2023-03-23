@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eduabreulfo
 - 👀 I’m interested in programming 🤖
-- 🌱 I’m currently learning C, java and frontend, like React, JS, Html & CSS
-- 💞️ I’m looking to collaborate on all of the above
+- 🌱 I’m currently learning C, java and frontend, like JS, Html & CSS
+- 💞️ I’m looking to collaborate on all of the above abd maybe something else
 - 📫 How to reach me: my personal email eduardo.abreulfo@gmail.com
 
 <!---
