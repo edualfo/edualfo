@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/edualfo">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/>
-  <img height="190em" src="https://streak-stats.demolab.com?user=edualfo&theme=chartreuse-dark&border_radius=0&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=edualfo&theme=chartreuse-dark&border_radius=0&hide_border=true"/>
 </div>
 
 <!---
