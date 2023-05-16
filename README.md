@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @eduabreulfo
-- 👀 I’m interested in programming 🤖
-- 🌱 I’m currently learning C, java and frontend, like JS, Html & CSS
-- 💞️ I’m looking to collaborate on all of the above abd maybe something else
-- 📫 How to reach me: my personal email eduardo.abreulfo@gmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=19&duration=4000&pause=1000&color=20C20E&background=000000&vCenter=true&width=450&lines=Hi+there%2C+I'm+Eduardo+Abreu!%F0%9F%91%8B;Im+a+computer+engineering+student;Check+out+some+cool+stuff+below+%F0%9F%8D%B7)](https://git.io/typing-svg)
 
 <!---
 eduabreulfo/eduabreulfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
