@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=19&duration=4000&pause=1000&width=406&color=7fff00&background=000000&vCenter=true&lines=Hi%2C+I'm+Eduardo+Abreu!%F0%9F%91%8B%F0%9F%91%8B;I'm+a+computer+engineering+student;Check+out+some+cool+stuff+below+%F0%9F%8D%B7%F0%9F%97%BF)](https://git.io/typing-svg)
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&weight=300&size=18&duration=4000&pause=1000&width=407&color=7fff00&background=000000&vCenter=true&lines=Hi%2C+I'm+Eduardo+Abreu!%F0%9F%91%8B%F0%9F%91%8B;I'm+a+computer+engineering+student;Check+out+some+cool+stuff+below+%F0%9F%8D%B7%F0%9F%97%BF">
+</div>
 
 <div align="left">
   <a href="https://github.com/edualfo">
