@@ -27,7 +27,7 @@
 </div>
 
 <div>
-  <img height="200" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=dark&ring=FFFFAF&fire=FFFFAF&currStreakNum=fff&currStreakLabel=fff&border_radius=5&hide_border=true">
+  <img height="200" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=dark&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
 </div>
 
 #
