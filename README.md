@@ -18,6 +18,8 @@
   </ul>
 </div>
 
+<!---
+
 #
 
 <div>
@@ -29,6 +31,8 @@
 <div>
   <img height="200" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=apprentice&ring=FFFFAF&fire=FFFFAF&currStreakNum=fff&currStreakLabel=fff&border_radius=5&hide_border=true">
 </div>
+
+--->
 
 <!---
 eduabreulfo/eduabreulfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
