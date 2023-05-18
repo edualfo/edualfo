@@ -22,12 +22,12 @@
 
 <div>
   <a href="https://github.com/edualfo">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&hide_rank=true&border_radius=5&hide_border=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&theme=apprentice&border_radius=5&hide_border=true&exclude_repo=&hide=&langs_count=10&layout=compact">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&border_radius=5&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&theme=dark&border_radius=5&hide_border=true&exclude_repo=&hide=&langs_count=10&layout=compact">
 </div>
 
 <div>
-  <img height="200" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=apprentice&ring=FFFFAF&fire=FFFFAF&currStreakNum=fff&currStreakLabel=fff&border_radius=5&hide_border=true">
+  <img height="200" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=dark&ring=FFFFAF&fire=FFFFAF&currStreakNum=fff&currStreakLabel=fff&border_radius=5&hide_border=true">
 </div>
 
 #
