@@ -22,17 +22,21 @@
 
 <div>
   <a href="https://github.com/edualfo">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&border_radius=5&hide_border=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&theme=dark&border_radius=5&hide_border=true&exclude_repo=&hide=&langs_count=10&layout=compact">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=false&border_color=555555"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&theme=dark&border_radius=5&hide_border=false&border_color=555555&exclude_repo=&hide=&langs_count=10&layout=compact">
 </div>
 
-<div>
-  <img height="200" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=dark&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
+<!---
+
+<div align=left>
+  <img height="180" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=transparent&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=false">
 </div>
 
 #
 
 ![snake gif](https://github.com/edualfo/edualfo/blob/output/github-contribution-grid-snake.svg)
+
+--->
 
 <!---
 eduabreulfo/eduabreulfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
