@@ -21,15 +21,15 @@
 #
 
 <div class="Stats Card">
-  <img width="42%" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&card_width=200&theme=moltack&bg_color=&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=">
-</div>
-
-<div class="Languages Card">
-  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=edualfo&card_width=200&show_icons=true&theme=moltack&bg_color=&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color=545d68"/>
+  <img width="41.3%" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&card_width=200&theme=moltack&bg_color=&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=">
 </div>
 
 <div class="Streak Card">
-  <img width="56.5%" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=moltack&stroke=86092C&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
+  <img width="56%" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=moltack&stroke=86092C&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
+</div>
+
+<div class="Languages Card">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=edualfo&card_width=200&show_icons=true&theme=moltack&bg_color=&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color=545d68"/>
 </div>
 
 <!---
