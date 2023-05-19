@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=400&size=32&duration=4000&pause=600&width=1000&height=60&color=F5E1C0&backgroun=00000000&background=2D030F&center=false&vCenter=true&lines=>+Hi%2C+I'm+Eduardo+Abreu!%F0%9F%91%8B%F0%9F%91%8B;>+I'm+a+computer+engineering+student;>+Check+out+some+stuff+below+%F0%9F%8D%B7%F0%9F%97%BF">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=400&size=32&duration=4000&pause=600&width=1000&height=80&color=F5E1C0&backgroun=00000000&background=2D030F&center=false&vCenter=true&lines=>+Hi%2C+I'm+Eduardo+Abreu!%F0%9F%91%8B%F0%9F%91%8B;>+I'm+a+computer+engineering+student;>+Check+out+some+stuff+below+%F0%9F%8D%B7%F0%9F%97%BF">
 </div>
 
 <hr>
