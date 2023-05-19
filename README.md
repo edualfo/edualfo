@@ -22,8 +22,8 @@
 
 <div>
   <a href="https://github.com/edualfo">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color=545d68"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&theme=codeSTACKr&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=compact">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edualfo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color=545d68"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&theme=dark&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=compact">
 </div>
 
 <!---
