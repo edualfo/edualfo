@@ -10,13 +10,13 @@
 
 <hr>
 
-<h3>
+<h4>
   <li>🤠 I'm 20 years old</li>
   <li>🏖️ Studying Computer Engineering at UFES, Espírito Santo, Brazil</li>
   <li>🤿 Diving deep into C data structures & algorithms</li>
   <li>📚 Always interested in learning something</li>
   <li>📦 What could be hiding inside?</li>
-</h3>
+</h4>
 
 <hr>
 
