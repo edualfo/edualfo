@@ -23,11 +23,11 @@
 <div>
   <a href="https://github.com/edualfo">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=edualfo&card_width=200&show_icons=true&theme=moltack&bg_color=&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color=545d68"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&card_width=200&theme=moltack&bg_color=&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=compact">
+  <img align=right height="376" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&card_width=200&theme=moltack&bg_color=&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=">
 </div>
 
 <div align=left>
-  <img height="195" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=moltack&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
+  <img height="172" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=moltack&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
 </div>
 
 <!---
