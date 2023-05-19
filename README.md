@@ -25,11 +25,11 @@
 </div>
 
 <div class="Languages Card">
-  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=edualfo&card_width=200&show_icons=true&theme=moltack&bg_color=&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color=545d68"/>
+  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=edualfo&card_width=200&show_icons=true&theme=moltack&bg_color=&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color=545d68"/>
 </div>
 
 <div class="Streak Card">
-  <img width="57%" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=moltack&stroke=86092C&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
+  <img width="56.5%" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=moltack&stroke=86092C&ring=&fire=&currStreakNum=&currStreakLabel=&border_radius=5&hide_border=true">
 </div>
 
 <!---
