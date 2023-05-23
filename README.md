@@ -20,15 +20,15 @@ font color: you can sample the color from the fire ring
 </p>
 
 <div>
-  <img width="40.85%" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&card_width=200&theme=ocean_dark&bg_color=&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=">
+  <img width="40%" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=edualfo&card_width=200&theme=ocean_dark&bg_color=&border_radius=5&hide_border=true&border_color=&exclude_repo=&hide=&langs_count=10&layout=">
 </div>
 
 <div>
-  <img width="55.5%" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=ocean_dark&stroke=&ring=&fire=&currStreakNum=fff&currStreakLabel=fff&border_radius=5&hide_border=true">
+  <img width="54.2%" src="https://streak-stats.demolab.com?user=edualfo&ring&theme=ocean_dark&stroke=&ring=&fire=&currStreakNum=fff&currStreakLabel=fff&border_radius=5&hide_border=true">
 </div>
 
 <div>
-  <img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=edualfo&card_width=200&show_icons=true&theme=ocean_dark&bg_color=&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color="/>
+  <img width="54.2%" src="https://github-readme-stats.vercel.app/api?username=edualfo&card_width=200&show_icons=true&theme=ocean_dark&bg_color=&include_all_commits=true&count_private=true&hide_rank=false&border_radius=5&hide_border=true&border_color="/>
 </div>
 
 <div>
