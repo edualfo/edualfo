@@ -11,7 +11,7 @@ background color (IF NEEDED): meyerweb color blender, 7 midpoints, blend white O
 font color: you can sample the color from the fire ring
 --->
 
-<br>
+<hr>
 
 - 🤠 I'm 20 years old<br>
 - 🏖️ Studying Computer Engineering at UFES, Espírito Santo, Brazil<br>
