@@ -12,7 +12,6 @@
 - 🏖️ Studying Computer Engineering at UFES, Espírito Santo, Brazil<br>
 - 🤿 Diving deep into C data structures & algorithms<br>
 - 📚 Always interested in learning something<br>
-- 📦 ?!<br>
 
 <!---
 eduabreulfo/eduabreulfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
