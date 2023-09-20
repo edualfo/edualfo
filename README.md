@@ -8,7 +8,7 @@
 
 <hr>
 
-- 🤠 I'm 20 years old<br>
+- 🤠 I'm 21 years old<br>
 - 🏖️ Studying Computer Engineering at UFES, Espírito Santo, Brazil<br>
 - 🤿 Diving deep into C data structures & algorithms<br>
 - 📚 Always interested in learning something<br>
