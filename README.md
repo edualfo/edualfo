@@ -6,10 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=400&size=40&duration=4300&pause=600&width=1000&height=100&color=fff&background=00000000&backgroun=000&center=false&vCenter=true&lines=~$+Hi%2C+I'm+Eduardo+Abreu!%F0%9F%91%8B%F0%9F%91%8B;~$+I'm+a+computer+engineering+student+💻;~$+Check+out+some+cool+stuff+below+%F0%9F%8D%B7%F0%9F%97%BF">
 </div>
 
-- 🤠 I'm 21 years old<br>
-- 🏖️ Studying Computer Engineering at UFES, Espírito Santo, Brazil<br>
-- 🤿 Diving deep into C data structures & algorithms<br>
-- 📚 Always interested in learning something<br>
+<ul>
+  <li> I'm 21 years old</li>
+  <li> Studying Computer Engineering at UFES, Espírito Santo, Brazil </li>
+  <li> Diving deep into C data structures & algorithms</li>
+  <li> Always interested in learning something</li>
+</ul>
+
+<!---
+🤠 I'm 21 years old<br>
+🏖️ Studying Computer Engineering at UFES, Espírito Santo, Brazil<br>
+🤿 Diving deep into C data structures & algorithms<br>
+📚 Always interested in learning something
+--->
 
 <!---
 eduabreulfo/eduabreulfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
