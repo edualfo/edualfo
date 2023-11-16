@@ -7,7 +7,7 @@
 </div>
 
 <ul>
-  <li> I'm 21 years old</li>
+  <li> 21 years old</li>
   <li> Studying Computer Engineering at UFES, Espírito Santo, Brazil </li>
   <li> Diving deep into C data structures & algorithms</li>
   <li> Always interested in learning something</li>
